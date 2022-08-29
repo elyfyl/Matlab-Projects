@@ -1,3 +1,5 @@
+Created x and y vectors from −5 to 5 with a spacing of 0.5. Considered the function z = sin(sqrt(x2 + y2))
+
 (a) The mesh plot function was used to generate a three-dimensional z-graph.
 (b) The surf plot function was used to generate a three-dimensional z-graph.
 (c) The surface plot was replaced with interpolated shading using different color maps.
