@@ -1,2 +1,2 @@
 # Matlab-Projects
-I'm sharing my Matlab works and their outputs.
+I'm sharing my Matlab studies and their outputs.
