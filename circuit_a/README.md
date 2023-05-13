@@ -12,6 +12,7 @@ The Circuit A. The length of the time period
 must be at least twice of the period of 
 Vin(t).
 
-
+* # Circuit Diagrams
+![Circuit Diagrams](Circuit.png)
 * #  Outputs
 ![Outputs](Outputs.png)
